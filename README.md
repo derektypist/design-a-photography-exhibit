@@ -20,4 +20,4 @@ Deployed on [GitHub Pages](https://derektypist.github.io/design-a-photography-ex
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
 - [Tailwind CSS](https://www.tailwindcss.com)
-- [Pinterest](https://uk.pinterest.com/derekthesec/london)
+- [Pinterest - London](https://uk.pinterest.com/derekthesec/london)
